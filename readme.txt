@@ -1,26 +1,20 @@
-Free Download Source Code "Online Food Ordering System"
 
-FIRST Download
 
-1.XAMPP
+1."Online_Food_Ordering_System"
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2. Download the zip file/ download winrar
 
-3"Online_Food_Ordering_System"
+3. Extract the file and copy "Online_Food_Ordering_System" folder
 
-4. Download the zip file/ download winrar
+4.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
-5. Extract the file and copy "Online_Food_Ordering_System" folder
+5. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+6. Create a database with name fos_db
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+7. Import fos_db.sql file(given inside the zip package in SQL file folder)
 
-8. Create a database with name fos_db
-
-6. Import fos_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/Online_Food_Ordering_System
+8.Run the script http://localhost/Online_Food_Ordering_System
 
 
 **LOGIN DETAILS** 
@@ -28,6 +22,3 @@ FIRST Download
 Admin
 user: admin
 pass: admin123
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
