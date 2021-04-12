@@ -2,7 +2,7 @@ Project Preview
 
 video link: 
 
-[![Food Mama Preview ](https://img.youtube.com/vi/eMTJmDJOnjI/0.jpg)](https://www.youtube.com/watch?v=eMTJmDJOnjI)
+https://www.youtube.com/watch?v=eMTJmDJOnjI&ab_channel=KishorLaskar
 
 1."Online_Food_Ordering_System"
 
