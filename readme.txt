@@ -1,6 +1,8 @@
 Project Preview
 
-video link: [![Food Mama Preview ](https://img.youtube.com/vi/eMTJmDJOnjI&ab_channel=KishorLaskar​)](https://www.youtube.com/watch?v=eMTJmDJOnjI&ab_channel=KishorLaskar​)
+video link: 
+
+[![Food Mama Preview ](https://img.youtube.com/vi/eMTJmDJOnjI​)](https://www.youtube.com/watch?v=eMTJmDJOnjI​)
 
 1."Online_Food_Ordering_System"
 
