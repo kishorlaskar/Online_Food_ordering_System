@@ -11,5 +11,5 @@ pass: admin123
 
 
 
-![ScreenShot](https://user-images.githubusercontent.com/30683532/114361195-abd28680-9b97-11eb-9135-a75e24979ec0.gif)
+![](https://user-images.githubusercontent.com/30683532/114361195-abd28680-9b97-11eb-9135-a75e24979ec0.gif)
 
